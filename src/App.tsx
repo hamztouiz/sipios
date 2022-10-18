@@ -3,7 +3,7 @@ import "./App.css";
 import { CalculatorPage } from "./pages";
 
 const App = () => {
-dd  return (
+  return (
     <div className="App">
       <CalculatorPage />
     </div>
